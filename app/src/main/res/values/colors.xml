@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWappGreen">#25D366</color>
+    <color name="colorWhiteChocolate">#ECE5DD</color>
+    <color name="bangladeshGreen">#075E54</color>
+    <color name="white">#FFFFFF</color>
+    <color name="messageColor">#DCF8C6</color>
+    <color name="wappBlue">#34b7f1</color>
+</resources>

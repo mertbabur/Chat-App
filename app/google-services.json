@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274533806607",
+    "firebase_url": "https://matsapp-b7cc8.firebaseio.com",
+    "project_id": "matsapp-b7cc8",
+    "storage_bucket": "matsapp-b7cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274533806607:android:388b16096938fb7daa297a",
+        "android_client_info": {
+          "package_name": "com.example.matsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274533806607-6ng8evv7utuhoeb2b408oie0hpb1mugv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matsapp",
+            "certificate_hash": "65036487dff58e3483751564dcddc5a5280601a9"
+          }
+        },
+        {
+          "client_id": "274533806607-vb9bfr3j6010p3cvs3klfslv74lfd6r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFjkPIpKUR6SCKSGoMDELB3l7GdKl_I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274533806607-vb9bfr3j6010p3cvs3klfslv74lfd6r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
